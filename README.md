@@ -1,1 +1,1 @@
-# CineReviewApp
+# MovieReviewApp
